@@ -1,0 +1,15 @@
+{
+  "demo": {
+    "updatedAt": "2026-02-13T16:19:03.812Z",
+    "dentalModeEnabled": true,
+    "toothSelection": {
+      "numbering": "fdi",
+      "tooth": "48"
+    },
+    "hangingProtocol": {
+      "protocolId": "@ohif/hpDental2x2",
+      "stageIndex": 0,
+      "activeStudyUID": "2.25.232704420736447710317909004159492840763"
+    }
+  }
+}
